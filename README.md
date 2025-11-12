@@ -35,28 +35,6 @@ and the elegance of **React**.
 - **Every commit is a reflection, not a reaction.**
 
 
-## Directory Layout
-the-frontend-chronicle/
-│
-├── html/
-│ ├── reflections.md
-│ ├── experiments/
-│ └── project/
-│
-├── css/
-│ ├── animations/
-│ └── project/
-│
-├── javascript/
-│ └── projects/
-│
-├── typescript/
-│ └── notes/
-│
-└── react/
-└── realworld-projects/
-
-
 ## 🌌 Closing Note
 
 > *“Frontend is more than visuals — it’s how humans experience technology.”*  
